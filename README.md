@@ -21,7 +21,7 @@
 ## 📬 Контакты
 - 📧 idtverdov@gmail.com
 - 🖇 [Резюме](https://docs.google.com/document/d/12SXlNVvJqrtI4TpHtsUuPt0r_Ik4AX9ato7ijMPg7YI/)  
-- 🌐 [LinkedIn / Telegram — опционально]
+- 🌐 [Telegram — idtverdov]
 
 ---
 
